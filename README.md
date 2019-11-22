@@ -1,1 +1,1 @@
-This is just a github test project. This doesn't meant to be any serious project. It's may be not even in a correct structure. My intention is to make it simple a possible.
+From a senior developer perspective here is nothing new to be learned. But for a youngling there is a lot to be learned from this project so don't miss any commits.
